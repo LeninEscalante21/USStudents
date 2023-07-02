@@ -28,4 +28,11 @@ Columns:
 # Goal 
 Determine relevant factors that positively impact the overall performance of the students
 
-# Table of contents
+# Table of contents:
+
+• Data: contains the dataset used for this project in .csv format
+
+• Exploratory analysis: SQL scripts used make an exploratory analysis the data
+
+• Statistical analysis: Python notebook containing a more detailed exploration of the data, a statistical analysis and modelling using Sci-kit learn
+
