@@ -2,7 +2,7 @@
 This repository contains a project originaly made for my data analysis course. The work done in this project relates to student performance in 3 subjects: writing, reading and mathematics.
 
 # Description
-The dataset used for this project was recovered from bit.ly/3Nt6xkA (Kaggle dataset: Student performance in mathematics). It is also available as a .csv file on this repository.
+The dataset used for this project was recovered from [Kaggle](bit.ly/3Nt6xkA)
 
 # Dataset 
 This dataset contains information on the performance of high school students in mathematics, including their grades and demographic information. The data was collected from three high schools in the United States.
