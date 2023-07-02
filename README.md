@@ -36,3 +36,4 @@ Determine relevant factors that positively impact the overall performance of the
 
 • Statistical analysis: Python notebook containing a more detailed exploration of the data, a statistical analysis and modelling using Sci-kit learn
 
+• ReporteProyecto: PDF file containing a report of the project (in spanish)
