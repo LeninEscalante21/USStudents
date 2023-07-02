@@ -24,3 +24,6 @@ Columns:
 • Reading score: The student's score on a standardized reading test
 
 • Writing score: The student's score on a standardized writing test
+
+# Goal 
+The goal of this project was to determine key factors that positively impact the overall performance of the students
